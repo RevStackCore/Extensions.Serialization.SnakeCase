@@ -1,0 +1,19 @@
+{
+  "name": "RevStackCore.Extensions.Serialization.SnakeCase",
+  "version": "1.0.0",
+  "description": "Quick snakecase json serialization .net core library",
+	"main": "RevStackCore.Extensions.Serialization.SnakeCase.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+		"url": "https://github.com/RevStackCore/Extensions.Serialization.SnakeCase.git"
+  },
+  "author": "S. Francis",
+  "license": "MIT",
+  "bugs": {
+		"url": "https://github.com/RevStackCore/Extensions.Serialization.SnakeCase/issues"
+  },
+	"homepage": "https://github.com/RevStackCore/Extensions.Serialization.SnakeCase"
+}
